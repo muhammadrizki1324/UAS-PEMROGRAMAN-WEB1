@@ -1,0 +1,41 @@
+[
+    {
+    "id_post" : "1", 
+    "comments" : [
+        {
+        "id_comment" : "1", 
+        "email" : "jhon@doe.com",
+        "comment" : "tests",
+        "date" : "7/29/2024"
+        },
+        {
+            "id_comment" : "2", 
+            "email" : "jhon@doe.com",
+            "comment" : "tests",
+            "date" : "7/29/2024"
+        }
+    ]
+    },
+    {
+        "id_post" : "2", 
+        "comments" : [
+            {
+            "id_comment" : "3", 
+            "email" : "jhon@doe.com",
+            "comment" : "tests",
+            "date" : "7/29/2024"
+        }
+    ]
+    },
+    {
+        " d" : "3", 
+        "comments" : [
+            {
+            "id_comment" : "4", 
+            "email" : "jhon@doe.com",
+            "comment" : "tests",
+            "date" : "7/29/2024"
+        }
+    ]
+    }
+]
